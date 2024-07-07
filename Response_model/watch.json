@@ -1,0 +1,13 @@
+{
+	"meta": {
+		"quality": ["480p", "720p", "1080p"],
+		"type": ["webm", "mp4", "avi"],
+	},
+	"header": {
+		"title": "Une vidéo bizarre"
+	},
+	"body": {
+		"src": "https://monsite.com/video/unevideobizarre_{quality}",
+		"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+	}
+}

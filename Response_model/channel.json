@@ -1,0 +1,7 @@
+{
+    "Nom de la liste": [{
+            "id": "channelID",
+            "title": "Channel name",
+            "thumbnail": "https://monsite.com/img/younixtv_thumb.png"
+        }]
+}

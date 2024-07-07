@@ -1,0 +1,37 @@
+{
+	"header": {
+		"title": "TITLE DU CHANNEL",
+		"description": "DESCRIPTION DU CHANNEL",
+		"poster": "https://monsite.com/img/younixtv.png",
+		"trailer": "https://monsite.com/video/younixtv_trailer.mp4"
+	},
+	"body": {
+		"My First collection": [{
+				"id": "myVideoID",
+				"title": "Une vidéo bizarre",
+				"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+			},{
+				"id": "myVideoID2",
+				"title": "Une vidéo bizarre",
+				"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+			},{
+				"id": "myVideoID3",
+				"title": "Une vidéo bizarre",
+				"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+			}],
+		
+		"My Seconde collection": [{
+				"id": "myVideoID",
+				"title": "Une vidéo bizarre",
+				"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+			},{
+				"id": "myVideoID2",
+				"title": "Une vidéo bizarre",
+				"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+			},{
+				"id": "myVideoID3",
+				"title": "Une vidéo bizarre",
+				"thumbnail": "https://monsite.com/img/unevideobizarre.png"
+			}]
+	}
+}
